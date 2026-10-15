@@ -60,19 +60,6 @@ The website allows visitors to explore interior design ideas, contact designers,
 
 ---
 
-## 📸 Screenshots
-
-| Home | Login / Register |
-| :---: | :---: |
-| <img src="screenshots/home.png" width="400"/> | <img src="screenshots/login.png" width="400"/> |
-
-| Gallery | Contact |
-| :---: | :---: |
-| <img src="screenshots/gallery.png" width="400"/> | <img src="screenshots/contact.png" width="400"/> |
-
-> 💡 Create a `screenshots/` folder in the repository and add your images with these names.
-
----
 
 ## 📂 Project Structure
 
